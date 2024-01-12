@@ -3,3 +3,8 @@
 just added headers
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 just added a cool picture
+Example 1
+``` python
+myVar = 20
+print (myVar)
+```
